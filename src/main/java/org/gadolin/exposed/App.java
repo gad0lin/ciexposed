@@ -1,5 +1,4 @@
 package org.gadolin.exposed;
-
 /**
  * Hello world!
  *
